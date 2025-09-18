@@ -1,6 +1,6 @@
 <?php
 // Default nilai zakat fitrah
-$zakat_beras = 2.9; // kg beras per orang
+$zakat_beras = 2.5; // kg beras per orang
 $zakat_uang = 47000; // Rp per orang (sesuai harga beras)
 
 // Inisialisasi variabel
